@@ -27,6 +27,6 @@ I am constantly seeking new techniques and approaches to optimize the systems an
 
 ## Contact 📫
 
-Feel free to reach out to me for any questions, collaboration, or professional opportunities! You can contact me via email at [paul.douane@gmail.com](mailto:paul.douane@gmail.com) or find me on LinkedIn at [https://www.linkedin.com/in/paul-douane](https://www.linkedin.com/in/paul-douane). I am open to discussions and always ready to explore exciting new challenges. 😊
+Feel free to reach out to me for any questions, collaboration, or professional opportunities! You can contact me via email at [paul.douane@gmail.com](mailto:paul.douane@gmail.com) or find me on LinkedIn at [https://www.linkedin.com/in/paul-douane](https://www.linkedin.com/in/paul-douane). 😊
 
 Please explore my GitHub projects to learn more about my work and contributions in these areas. If you have any additional details or information you would like to add, let me know, and I will update the README accordingly. 🚀
