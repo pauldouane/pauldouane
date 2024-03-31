@@ -1,5 +1,3 @@
-# Paul Douane 🚀
-
 ## Description 📜
 I am a developer passionate about low-level languages, operating systems, and all things related to hardware. 
 I find it fascinating to explore the inner workings of technologies and understand them deeply. 
